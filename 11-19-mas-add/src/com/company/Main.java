@@ -6,11 +6,11 @@ public class Main {
         NarrayList simonArray = new NarrayList(2);
         //NarrayList felixArray = new NarrayList(50);
         User simon = new User();
-        simon.setPassword("hhhh");
-        simon.setUsername("1234");
+        simon.setPassword("password is set 112815");
+        simon.setUsername("simon");
         User felix = new User();
-        felix.setPassword("2231");
-        felix.setUsername("hfgewugf");
+        felix.setPassword("passwort");
+        felix.setUsername("felix");
         /*for (int i = 0; i<209; i++){
             felixArray.add(i,i);
          //   simonArray.add(1,2);
